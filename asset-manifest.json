@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Dolist/static/css/main.864a85c5.css",
+    "main.js": "/React_Dolist/static/js/main.1d547501.js",
+    "index.html": "/React_Dolist/index.html",
+    "main.864a85c5.css.map": "/React_Dolist/static/css/main.864a85c5.css.map",
+    "main.1d547501.js.map": "/React_Dolist/static/js/main.1d547501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864a85c5.css",
+    "static/js/main.1d547501.js"
+  ]
+}
